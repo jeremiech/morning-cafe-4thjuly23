@@ -6,4 +6,4 @@ function sumArray(arr1,arr2){
     }
     return sum
 }
-console.log(sumArray([1,3,22],[11,8,4]))
+// console.log(sumArray([1,3,22],[11,8,4]))
